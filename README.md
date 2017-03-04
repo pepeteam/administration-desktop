@@ -1,14 +1,14 @@
-# ipfs.pics Administration Software
+# Administrative tool to remove bad content from pepepics nodes and flag NSFW
 
 This is the software to optionally review and flag pictures that were uploaded to your [ipfs.pics server](https://github.com/ipfspics/server). 
+
 You can flag them as unsafe (NSFW), which will keep them from being accessible through the random 
-feature and will not allow ads to be displayed on the same page. The safe option (SFW) will do the opposite. 
+feature and will not allow ads to be displayed on the same page. The safe option (SFW) will do the opposite.
+
 You can also ban pictures you find inappropriate, and those will be unavailable from your server. 
 
-![Screenshot](http://ipfs.pics/ipfs/QmVQ1cR8VFFjbgK3ZcwstqpKU4662o86gYEm15ktuh52MQ "Screenshot")
 
-# Licence
-
+# License
 Copyright (C) 2015 ipfs.pics Team
 This program is free software; you can redistribute it and/or modify it under the terms 
 of the GNU General Public License as published by the Free Software Foundation; either 
