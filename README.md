@@ -1,6 +1,8 @@
-# Administrative tool to remove bad content from pepepics nodes and flag NSFW
+# pepepics-moderation
+Administrative tool to remove bad content from pepepics nodes and flag NSFW images
 
-This is the software to optionally review and flag pictures that were uploaded to your [ipfs.pics server](https://github.com/ipfspics/server). 
+This is the software to optionally review and flag pictures that were uploaded to your pepepics nodes
+(https://github.com/pepeteam/pepepics-server). 
 
 You can flag them as unsafe (NSFW), which will keep them from being accessible through the random 
 feature and will not allow ads to be displayed on the same page. The safe option (SFW) will do the opposite.
